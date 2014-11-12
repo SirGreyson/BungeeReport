@@ -1,0 +1,4 @@
+name: BungeeReport
+main: co.reasondev.report.BungeeReport
+version: 1.0
+author: SirReason
